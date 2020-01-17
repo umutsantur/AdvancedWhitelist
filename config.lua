@@ -1,0 +1,1 @@
+ errorMessage = 'You dont have a whitelist on this server.'
